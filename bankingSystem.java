@@ -17,5 +17,8 @@ class myName{
 	public void name() {
 		System.out.println("Muskan Shrestha");
 	}
+	public void studentName() {
+		System.out.println("Muskan");
+	}
 }
 
