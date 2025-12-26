@@ -14,6 +14,8 @@ public class DatabasrConnection {
     public boolean isConnected() {
         return connected;
     }
-
+public void anykind() {
+	System.out.println("Any kind of animal");
+}
 
 }
